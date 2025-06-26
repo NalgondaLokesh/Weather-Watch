@@ -8,9 +8,7 @@ A simple web application that displays real-time weather information for any cit
 - Get current temperature, humidity, and weather condition
 - Clean, responsive UI using HTML, CSS, and JavaScript
 
-## 📷 Screenshot
 
-![Weather Dashboard UI](https://via.placeholder.com/600x300.png?text=Weather+Dashboard+Preview)
 
 ## 🛠️ Tech Stack
 
